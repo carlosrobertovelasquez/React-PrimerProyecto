@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ed-grid": "^2.9.0",
+    "edteam-style-guides": "0.0.64",
+    "node-sass": "^4.13.1"
   }
 }
